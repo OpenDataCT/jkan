@@ -30,3 +30,7 @@
   logo: /img/categories/government-icon.svg
   logo_credit: ''
   featured: true
+- name: Housing & Development
+  logo: /img/categories/house.svg
+  logo_credit: ''
+  featured: true
