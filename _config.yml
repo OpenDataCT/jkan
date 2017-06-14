@@ -1,6 +1,6 @@
 title: CT Open Data Repository
-greeting: Welcome to the State of Connecticut's online hub for access to the State's open data
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+greeting: Welcome to the State of Connecticut's online hub for access to the  open data
+description: 
 baseurl: /jkan
 logo: /img/jkan.png
 
