@@ -10,7 +10,7 @@ resources:
     format: shp
 license: 'http://www.opendefinition.org/licenses/odc-by'
 category:
-  - Uncategorized
+  - Environment & Natrual resources
 maintainer: ''
 maintainer_email: ''
 ---
