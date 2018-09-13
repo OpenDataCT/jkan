@@ -6,31 +6,15 @@
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
-- name: Tools & Software
+- name: Best Practices
   logo: /img/categories/environment.svg
   logo_credit: ''
   featured: true
-- name: Health / Human Services
+- name: Legal Agreements
   logo: /img/categories/health-human-services.svg
   logo_credit: Timothy Miller from the Noun Project
-  featured: true
-- name: Public Safety
-  logo: /img/categories/public-safety.svg
-  logo_credit: Rohith M S from the Noun Project
   featured: true
 - name: Transportation
   logo: /img/categories/transportation.svg
   logo_credit: Dmitry Baranovskiy from the Noun Project
-  featured: true
-- name: Uncategorized
-  logo: /img/categories/uncategorized.svg
-  logo_credit: Edward Boatman from the Noun Project
-  featured: true
-- name: Government
-  logo: /img/categories/government-icon.svg
-  logo_credit: ''
-  featured: true
-- name: Housing & Development
-  logo: /img/categories/house.svg
-  logo_credit: ''
   featured: true
