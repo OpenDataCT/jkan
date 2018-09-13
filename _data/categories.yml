@@ -1,12 +1,12 @@
-- name: Business
+- name: Training & Education Resources
   logo: /img/categories/economy.svg
   logo_credit: Vectors Market from the Noun Project
   featured: true
-- name: Education
+- name: Data Governance
   logo: /img/categories/education.svg
   logo_credit: Sergey Patutin from the Noun Project
   featured: true
-- name: Environment & Natural resources
+- name: Tools & Software
   logo: /img/categories/environment.svg
   logo_credit: ''
   featured: true
