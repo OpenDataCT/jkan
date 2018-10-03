@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Learn Python - Codecademy
-organization: ''
+organization: Codecademy
 notes: >-
   In 10 hours, learn the basics of the world's fastest growing and most popular
   programming language used by software engineers, analysts, data scientists,
