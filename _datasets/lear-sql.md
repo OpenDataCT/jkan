@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Lear SQL
+title: Learn SQL
 organization: Codecademy
 notes: >-
   Learnt to work with databases using SQL. Structured Query Language (SQL) is a
